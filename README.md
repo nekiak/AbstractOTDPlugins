@@ -14,7 +14,7 @@ To view how different parameters affect the operating curve, open [RadialFollow/
 Allows using tablets with touch sensitivity as a two key tapping pad.
 
 
-## sin(cursor)
+## sin(cursor).
 Makes the cursor wiggle in a sine wave.
 
 
